@@ -1,6 +1,9 @@
 ### Hi there, I'm Junior  👋
 
-##Wrong is to think you know everything. 
+# Wrong is to think you know everything. 
+
+- 🌱 I’m currently learning everything that i can 🤣
+- ⚡ Fun fact: I love to draw and drink coffe
 
 ---
 
