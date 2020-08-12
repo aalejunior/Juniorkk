@@ -2,7 +2,7 @@
 
 # Wrong is to think you know everything. 
 
-- 🌱 I’m currently learning everything that i can 🤣
+- 🌱 I’m currently learning: Javascript 🤣
 - ⚡ Fun fact: I love to draw and drink coffe
 
 ---
