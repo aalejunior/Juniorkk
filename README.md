@@ -1,6 +1,8 @@
 ### Hi there, I'm Junior  👋
 
-#Wrong is to think you know everything. 
+##Wrong is to think you know everything. 
+
+---
 
 ### Connect with me:
 
