@@ -34,4 +34,4 @@
 [twitter]: https://twitter.com/somesurname1
 [instagram]: https://instagram.com/_junior.mov
 [linkedin]: linkedin.com/in/alexandre-junior-946885153/
-[discord]: https://discord.com/channels/@gatinho#9247/
+[discord]: https://discord.com/channels/@gatinho#9247
