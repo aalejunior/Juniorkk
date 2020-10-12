@@ -1,6 +1,6 @@
 ### Hi there, I'm Junior  👋
 
-# Wrong is to think you know everything. 
+# Focus on what you can control. 
 
 - 🌱 I’m currently learning: Javascript 🤣
 - ⚡ Fun fact: I love to draw and drink coffe
