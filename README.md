@@ -2,7 +2,7 @@
 
 # Focus on what you can control. 
 
-- 🌱 I’m currently learning: Javascript 🤣
+- 🌱 I’m currently learning: Finances 🤣
 - ⚡ Fun fact: I love to draw and drink coffe
 
 ---
