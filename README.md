@@ -17,7 +17,7 @@
 
 <br />
 
-### 💻 Learning this:
+### 💻 Try learn this:
 
 ```
 - C
